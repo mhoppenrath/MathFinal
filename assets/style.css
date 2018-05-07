@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	background-image: url("images/Westeros.jpg");
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+}
+.jumbotron {
+	margin-top: 10%;
+	opacity: 0.8;
+	background-color: #662200;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
